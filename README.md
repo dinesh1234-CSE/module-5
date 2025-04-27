@@ -1,5 +1,4 @@
-# NAME:ASHRATHI S
-# REG NO : 212224230025
+
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
