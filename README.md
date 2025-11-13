@@ -12,6 +12,10 @@ To write a C Program to find area of rectangle using pointer.
 
 ## PROGRAM
 ```
+NAME: CH.V.S.DINESH KUMAR
+REG NO:212224040055
+```
+```C
 #include<stdio.h>
 int main()
 {
@@ -52,7 +56,7 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 6.	Stop the program.
 
 ## PROGRAM
-```
+```C
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -86,7 +90,7 @@ int main()
 ## RESULT
 Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully
  
-.
+
 
 
 
@@ -104,7 +108,7 @@ To write a C Program to store the student information and display it using struc
 4.	Stop the program.
 
 ## PROGRAM
-```
+```C
 #include <stdio.h>
 struct Student {
     char name[50];
@@ -154,7 +158,7 @@ To write a C Program to read and store the data of 3 employees and calculate the
 5.	Stop the program.
 
 ## PROGRAM
-```
+```C
 #include<stdio.h>
 struct employee
 {
@@ -201,7 +205,7 @@ Thus the C program to read and store the data of 3 employees and calculate their
 Create a C program to calculate the total and average of student using structure.
 
 ## ALGORITHM 
-
+```
 Step 1: Start the program.
 Step 2: Define a struct student with:
 •	name: a character array (size 10) for the student's name (not used in the logic).
@@ -226,9 +230,9 @@ Step 6: Override Total (Hardcoded):
 Step 7: Output Loop (i = 0 to 1):
 •	Print s[i].total for each student.
 Step 8: End the program.
-
-## PROGRAM
 ```
+## PROGRAM
+```C
 
 
 #include <stdio.h>
